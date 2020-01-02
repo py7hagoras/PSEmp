@@ -1,9 +1,0 @@
-C:\Users\pytha\source\repos\PSEmp\PSEmp\bin\Debug\PSEmp.exe.config
-C:\Users\pytha\source\repos\PSEmp\PSEmp\bin\Debug\PSEmp.exe
-C:\Users\pytha\source\repos\PSEmp\PSEmp\bin\Debug\PSEmp.pdb
-C:\Users\pytha\source\repos\PSEmp\PSEmp\bin\Debug\System.Management.Automation.dll
-C:\Users\pytha\source\repos\PSEmp\PSEmp\obj\Debug\PSEmp.csprojAssemblyReference.cache
-C:\Users\pytha\source\repos\PSEmp\PSEmp\obj\Debug\PSEmp.csproj.CoreCompileInputs.cache
-C:\Users\pytha\source\repos\PSEmp\PSEmp\obj\Debug\PSEmp.csproj.CopyComplete
-C:\Users\pytha\source\repos\PSEmp\PSEmp\obj\Debug\PSEmp.exe
-C:\Users\pytha\source\repos\PSEmp\PSEmp\obj\Debug\PSEmp.pdb
